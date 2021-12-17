@@ -1,4 +1,4 @@
-# Hide Extensions 
+# 1) Hide Extensions 
 ### Whe you need hide extensions .php and .html used this code in the new file .htaccess inside project (public_html)
 
 ### .php
