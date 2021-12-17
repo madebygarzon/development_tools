@@ -1,5 +1,5 @@
 # 1) Hide Extensions 
-### Whe you need hide extensions .php and .html used this code in the new file .htaccess inside project (public_html)
+### Whe you need hide extensions .php and .html used this code in a new file .htaccess inside project (public_html)
 
 ### .php
 
